@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Onde é usado o c#?',
+    'Foi criado pela microsoft e também é utilizado para criar jogos na unity!'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Matemática',
+    'Quanto é a raiz quadrada de 625',
+    '25!'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Jogos',
+    'O que é um jogo?',
+    'Tem a função de entreter e divertir o consumidor.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Xadrez',
+    'Qual a peça do xadrez que se movimnenta e L?',
+    'O cavalo!'
 )
